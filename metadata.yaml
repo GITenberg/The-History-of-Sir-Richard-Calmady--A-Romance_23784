@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2808
     wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23784#The-History-of-Sir-Richard-Calmady--A-Romance
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2007-12-09'
 gutenberg_type: Text
