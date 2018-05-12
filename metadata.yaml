@@ -1,0 +1,34 @@
+_repo: The-History-of-Sir-Richard-Calmady--A-Romance_23784
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malet, Lucas
+    alias: Harrison, Mary St. Leger Kingsley
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '2808'
+    url: http://www.gutenberg.org/2009/agents/2808
+    wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Lesbians -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'People with disabilities -- Fiction'
+- !lcsh 'Psychological fiction'
+title: 'The History of Sir Richard Calmady: A Romance'
+url: http://www.gutenberg.org/ebooks/23784
